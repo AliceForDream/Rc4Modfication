@@ -11,7 +11,7 @@ int main(int argc, char* argv[])
 	char Key[]="testkey!";
 	char PlainText[]="Hello world!";
 	char PlainText2[]="This is another test!";
-	char Mod[]="Hello world!\n";
+	char Mod[]="Hello world!";
 	char Mod2[]="This is another test!";
 	int len=strlen(PlainText);
 	int len1=strlen(PlainText2);
