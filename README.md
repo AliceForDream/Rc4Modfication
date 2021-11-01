@@ -1,3 +1,3 @@
 # Rc4Modfication
 Base On RC4 ，Modify Crypt
-CopyRights_fb3f97d56ba8adb8b2d3d412067dd95de4ceb241
+CopyRights_92b2372b8c8b5d0306a912c4b5b8e8541b80a43b3ee41438
